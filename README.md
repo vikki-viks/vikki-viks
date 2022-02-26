@@ -1,16 +1,23 @@
-### Hi there 👋
+### Junior Fullstack Developer 👋
 
-<!--
-**vikki-viks/vikki-viks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🔭 Что я знаю
+- SQL
+- React
+- Express + Node
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои проекты
+Вот некоторые проекты, которые я сделала за время своего обучения
+
+### Магазин роллов
+Написано на React.js, в роли бэкэнда служит статический сервер, который отдает данные для отображения в формате JSON. Со стороны фронтенда реализованы сортировка, категории, выбор количества товара и его добавление в корзину с учетом выбранного количсетва.
+
+Для запуска необходимо склонировать репозиторий и ввести команду `npm start`
+
+![image](https://user-images.githubusercontent.com/77355397/155853985-04200c11-8187-467b-a23b-40947bb9f209.png)
+
+
+![image](https://user-images.githubusercontent.com/77355397/155853991-6fbb4b15-20c1-451b-83e2-d0320b29d904.png)
+
+
+![image](https://user-images.githubusercontent.com/77355397/155853994-57de8f7b-4a21-49a4-b922-41b648ea924a.png)
