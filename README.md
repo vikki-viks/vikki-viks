@@ -1,4 +1,4 @@
-### Junior Fullstack Developer 👋
+### Junior JavaScript Fullstack Developer 👋
 
 
 ## 🔭 Что я знаю
