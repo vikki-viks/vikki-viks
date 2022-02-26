@@ -33,3 +33,12 @@
 
 <img width="620" alt="Снимок экрана 2022-02-26 в 20 43 30" src="https://user-images.githubusercontent.com/77355397/155854036-cb0283e3-9aa4-48d9-96e5-8f96142cae38.png">
 
+### Фабрика скинали
+Ссылка на репозиторий - https://github.com/vikki-viks/skinali
+
+Сверстано с использованием препроцессора sass и чистого html. 
+
+![image](https://user-images.githubusercontent.com/77355397/155854639-2c74cea6-3598-42ed-b642-23bac227cfc7.png)
+
+![image](https://user-images.githubusercontent.com/77355397/155854646-3f214656-f340-4fed-8274-4e0f665eb82a.png)
+
