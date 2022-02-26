@@ -2,6 +2,7 @@
 
 
 ## 🔭 Что я знаю
+- JavaScript
 - SQL
 - React
 - Express + Node
